@@ -1,5 +1,5 @@
 # ArabicToRoman
-# This my first attemt to write a simple javascript webb app.
+# This my first attemt to write a simple javascript web app. Used html/css/js for it.
 # It converts an arabic number into roman.
 # You can run it here https://vasvarouhas.github.io/ArabicToRoman/converter.html
 # Running properly should look like this :
